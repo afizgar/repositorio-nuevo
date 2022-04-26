@@ -1,4 +1,2 @@
-
-exit
-bye
+hello, git
 
